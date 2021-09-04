@@ -8,12 +8,18 @@
 =======
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
+<<<<<<< HEAD
+>>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
+=======
 >>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
     "axios": "^0.21.1",
     "cra-template": "1.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
     "react-router-dom": "^5.2.1",
     "react-scripts": "4.0.3"
 =======

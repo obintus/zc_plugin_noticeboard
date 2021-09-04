@@ -56,6 +56,9 @@ function NoticeBoard() {
       </Switch>
     </div>
   );
+<<<<<<< HEAD
+>>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
+=======
 >>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
 }
 
