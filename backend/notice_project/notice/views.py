@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> defb555c88fec7a1172f60e1741523887618becd
 from django.shortcuts import render
 from django.http import JsonResponse
 
@@ -48,6 +51,7 @@ def setNoticeTimestamp(request):
         "timestamp": "3 Hours ago"
     }
     
+<<<<<<< HEAD
     return JsonResponse(data, status=200)
 =======
 from rest_framework import views
@@ -188,3 +192,6 @@ class CommentDeleteAPIView(views.APIView):
     def delete(self, pk):
         return Response({"message": "You have successfully deleted your comment"}, status=status.HTTP_200_OK)
 >>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
+=======
+    return JsonResponse(data, status=200)
+>>>>>>> defb555c88fec7a1172f60e1741523887618becd

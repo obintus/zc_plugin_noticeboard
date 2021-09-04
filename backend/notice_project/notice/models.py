@@ -1,6 +1,7 @@
 from django.db import models
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Create your models here.
 =======
 class Notice:
@@ -31,3 +32,6 @@ class EditNotice:
         self.notice_id = notice_id
         self.text = text
 >>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
+=======
+# Create your models here.
+>>>>>>> defb555c88fec7a1172f60e1741523887618becd

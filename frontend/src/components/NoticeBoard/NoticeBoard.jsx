@@ -57,8 +57,11 @@ function NoticeBoard() {
     </div>
   );
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
 =======
+=======
+>>>>>>> defb555c88fec7a1172f60e1741523887618becd
 >>>>>>> 1c87e21052b32b6e35cb259d46014e491b3017ee
 }
 
